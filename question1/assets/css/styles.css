@@ -42,6 +42,10 @@ body {
     background: #5c5c5c;
 }
 
+.sidebar__item:hover a {
+    color: #fff;
+}
+
 .sidebar__item a {
     color: #aaaaaa;
     font-weight: 700;
